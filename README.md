@@ -80,10 +80,12 @@ $ pm2 start src/index.js --watch
 
 endpoint: 
 
-http://localhost:300/login
-http://localhost:300/register
-http://localhost:300/post1
-http://localhost:300/post2
+```bash
+# http://localhost:300/login
+# http://localhost:300/register
+# http://localhost:300/post1
+# http://localhost:300/post2
+```
 
 Now setup is finished now you can login with default user:
 
